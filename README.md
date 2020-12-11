@@ -15,7 +15,7 @@ In the second part we created our most important class as a Doctor Assistant to 
 
 Thirdly, we created our patient class to represent the client object. Patient class basically assigns the doctor assistant to DoctorAssistant and checks the availability of Doctor.
 
-==========  COMMANDER PATTERN - Coffee Shop   ==============
+==========  COMMAND PATTERN - Coffee Shop   ==============
 
 Command pattern is a behavioral design pattern that turns a request from client into a stand-alone object that contains all information about the request. This transformation lets you parameterize methods with different requests, delay or queue a request’s execution
 Many people love to spend time with their friends. People generally prefer coffee shops to meet. For example, let's say you want to order coffee for your beloved friends. You entered a nice coffee shop and the waiter came to take the order. The waiter wrote the orders on paper and delivered them to the barista. Barista started to prepare the coffees after receiving the order receipt. Then the waiter notified you when the orders were ready, and you started drinking your coffee with your friends in a pleasant way.
