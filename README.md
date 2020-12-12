@@ -3,6 +3,7 @@
 
 Group Member - Birkan Ak, Ugurcan Demir, Nilgun Ilayda Akalin, Kerem Atasoy
 
+HOW TO RUN = python <FILE NAME> # Python Version -- 3.8.5
 
 ==========   PROXY PATTERN - Patient and Doctor Appointment System   =============
 
